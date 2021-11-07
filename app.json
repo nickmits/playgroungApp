@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "AtmaGo",
+    "slug": "atmago",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/loadingIcon.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.atmacom.atmago",
+      "buildNumber": "0.1.0"
+    },
+    "android": {
+      "package": "com.atmacom.atmago",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
